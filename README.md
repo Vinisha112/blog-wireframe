@@ -1,1 +1,1 @@
-# blog-wireframe
+# Design-thinking-blog-exercise
